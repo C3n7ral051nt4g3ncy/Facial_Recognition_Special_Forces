@@ -1,5 +1,6 @@
 # Facial Recognition and its dangers for Special Forces Units and Operators
 
+![sf](https://github.com/C3n7ral051nt4g3ncy/Facial_Recognition_Special_Forces/assets/104733166/4b13cf98-8e3a-4098-b8ce-94c1694a7f46)
 
 
 
@@ -16,6 +17,7 @@ I had the privilege of presenting these findings at a cybersecurity conference a
 
 The experience has been gratifying, to say the least. My contributions have played a part in bolstering the security measures that help keep Special Forces units worldwide more secure during their critical missions. The journey from discovery to dissemination and eventual mitigation of a significant security loophole underscores the crucial interplay between technology, security, and the relentless pursuit of a safer operational landscape for our Special Forces.
 
-Read my full report here: https://github.com/C3n7ral051nt4g3ncy/Facial_Recognition_Special_Forces/blob/master/Special_Forces_Facial_Recognition.pdf
+
+📖 Read my full report here: https://github.com/C3n7ral051nt4g3ncy/Facial_Recognition_Special_Forces/blob/master/Special_Forces_Facial_Recognition.pdf
 
 
