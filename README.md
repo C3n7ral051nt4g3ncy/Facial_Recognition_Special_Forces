@@ -15,3 +15,7 @@ The expedition led to an eye-opening discovery where I unearthed certain advanta
 I had the privilege of presenting these findings at a cybersecurity conference attended by government and military representatives. The presentation resonated profoundly, evoking a significant level of interest among the attendees. Since the revelation, modifications have been made to the tool in question, reducing its efficacy significantly in order to mitigate the outlined risks.
 
 The experience has been gratifying, to say the least. My contributions have played a part in bolstering the security measures that help keep Special Forces units worldwide more secure during their critical missions. The journey from discovery to dissemination and eventual mitigation of a significant security loophole underscores the crucial interplay between technology, security, and the relentless pursuit of a safer operational landscape for our Special Forces.
+
+Read my full report here: https://github.com/C3n7ral051nt4g3ncy/Facial_Recognition_Special_Forces/blob/master/Special_Forces_Facial_Recognition.pdf
+
+
